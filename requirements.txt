@@ -1,2 +1,4 @@
 frappe
 coverage==5.0.4
+testfm==0.1.4
+configparser==5.0.2
